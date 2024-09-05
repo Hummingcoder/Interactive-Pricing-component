@@ -29,7 +29,7 @@ section {
 }
 main {
   background: var(--very-pale-blue);
-  background-color: #fff;
+  background-color: var(--very-pale-blue);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -86,7 +86,7 @@ span {
   background: white;
   width: 90%;
   padding: 2em 0;
-  max-width: 500px;
+  max-width: 560px;
   border-radius: 10px;
   text-align: center;
   box-shadow: 0 10px 10px #d8dde6;
@@ -375,5 +375,8 @@ li {
   .discount_word {
     display: inline-block;
     color: var(--light-red);
+  }
+  .billing {
+    padding-left: 5em;
   }
 }

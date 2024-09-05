@@ -16,5 +16,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-pricing-component-solution-6rgNY9y9_U](https://www.frontendmentor.io/solutions/interactive-pricing-component-solution-6rgNY9y9_U)
+- Live Site URL: [https://hummingcoder.github.io/Interactive-Pricing-component/](https://hummingcoder.github.io/Interactive-Pricing-component/)
